@@ -11,7 +11,7 @@ ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, p, blockquote, fields
  a img, a:hover img { border: none; }
  b, strong { font-weight: bold; }
  h2 { color: #000000; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 28px; font-weight: 300; line-height: 1.1em; letter-spacing: 0.03em; margin: 0 auto 20px; }
- div.paragraph { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 300; line-height: 1.75; letter-spacing: 0.02em; margin: 0 auto 30px; }
+ div.paragraph { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 350; line-height: 1.75; letter-spacing: 0.02em; margin: 0 auto 30px; }
  p { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 300; line-height: 1.75; letter-spacing: 0.02em; margin: 0 auto 30px; }
  div.paragraph a[href] { color: inherit; opacity: .7; border-bottom: 1px solid rgba(0,0,0,0.5); -webkit-transition: opacity 200ms ease-in-out; -moz-transition: opacity 200ms ease-in-out; -ms-transition: opacity 200ms ease-in-out; transition: opacity 200ms ease-in-out; }
  p a[href] { color: inherit; opacity: .7; border-bottom: 1px solid rgba(0,0,0,0.5); -webkit-transition: opacity 200ms ease-in-out; -moz-transition: opacity 200ms ease-in-out; -ms-transition: opacity 200ms ease-in-out; transition: opacity 200ms ease-in-out; }
